@@ -17,7 +17,10 @@
 ### op设备配置
 op设备的管理界面是192.168.2.1，这个地址是在/etc/config/network设置的（图1）。路由器的管理界面ip是op设备给他分配的ip地址。（路由模式或者强改的ap模式后台管理地址都是独立的，ap模式，中继模式，桥接模式是看上级分配的ip地址进）
 
+<p align="center">
 ![network_config](https://github.com/405028157/Notebook/blob/main/imgs/network_config.png)
+图1
+</p>
 
 ### 固件
 使用saka大佬编译的固件：[Zheaoli/Auto-OpenWrt](https://github.com/Zheaoli/Auto-OpenWrt)
