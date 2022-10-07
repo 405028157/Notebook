@@ -20,4 +20,4 @@ op设备的管理界面是192.168.2.1，这个地址是在/etc/config/network设
 ![network_config](https://github.com/405028157/Notebook/blob/main/imgs/network_config.png)
 
 ### 固件
-使用saka大佬编译的固件：Zheaoli/Auto-OpenWrt (github.com)
+使用saka大佬编译的固件：[Zheaoli/Auto-OpenWrt] (https://github.com/Zheaoli/Auto-OpenWrt)
